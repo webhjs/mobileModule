@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="228" viewBox="0 0 375 228">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.055" x2="0.5" y2="0.23" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4291f7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.455"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.055" x2="0.5" y2="0.15" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0af"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.455"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="路径_64142" data-name="路径 64142" d="M10,0H365a10,10,0,0,1,10,10V228H0V10A10,10,0,0,1,10,0Z" opacity="0.164" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-输入工号密码bg">
+      <rect width="375" height="228"/>
+    </clipPath>
+  </defs>
+  <g id="输入工号密码bg" clip-path="url(#clip-输入工号密码bg)">
+    <g id="组_53395" data-name="组 53395" transform="translate(0 -583.917)">
+      <path id="矩形_5173" data-name="矩形 5173" d="M15,0H360a15,15,0,0,1,15,15V228a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(0 584)" fill="#fff"/>
+      <path id="路径_64141" data-name="路径 64141" d="M14.6-.083l346.424.051c8.114.526,13.837,7.76,13.973,14.074V227.965H0L.017,13.571C.017,8.369,5.6.2,14.6-.083Z" transform="translate(0 584)" opacity="0.303" fill="url(#linear-gradient-2)"/>
+      <g id="椭圆_62" data-name="椭圆 62" transform="translate(107 590)" fill="none" stroke="#0af" stroke-width="2" opacity="0.3">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4" fill="none"/>
+      </g>
+      <g id="组_53179" data-name="组 53179" transform="translate(240 590)">
+        <path id="路径_64105" data-name="路径 64105" d="M0,0H8V2H0Z" transform="translate(0 3)" fill="#a9e3ff"/>
+        <rect id="矩形_5196" data-name="矩形 5196" width="2" height="8" transform="translate(3)" fill="#a9e2ff"/>
+      </g>
+      <g id="蒙版组_2" data-name="蒙版组 2" transform="translate(0 584)" clip-path="url(#clip-path)">
+        <path id="路径_64104" data-name="路径 64104" d="M7.018,63.157C-19.857,97.464,36.368,95.224,75.812,77.395c58.176-26.3,139.89-21.065,111.6-62.6S33.893,28.85,7.018,63.157Z" transform="translate(281.858 27.437) rotate(-177)" fill="#c5ecff" opacity="0.15"/>
+        <path id="路径_64106" data-name="路径 64106" d="M7.888,39.543C-18.987,73.85,28.267,94.6,67.71,76.772c58.176-26.3,149.372-13.6,121.083-55.136S34.763,5.237,7.888,39.543Z" transform="translate(381.759 25.691) rotate(-177)" fill="#0af" opacity="0.06"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="36" viewBox="0 0 42 36">
+  <defs>
+    <clipPath id="clip-标签">
+      <rect width="42" height="36"/>
+    </clipPath>
+  </defs>
+  <g id="标签" clip-path="url(#clip-标签)">
+    <g id="组_53396" data-name="组 53396" transform="translate(-32 -46)">
+      <g id="组_53152" data-name="组 53152" transform="translate(32 46)">
+        <rect id="矩形_5175" data-name="矩形 5175" width="30" height="30" rx="15" transform="translate(12 6)" fill="#9fdfff" opacity="0.681"/>
+        <rect id="矩形_5174" data-name="矩形 5174" width="36" height="36" rx="18" fill="#0af"/>
+        <rect id="矩形_5257" data-name="矩形 5257" width="20" height="4" rx="2" transform="translate(8 16)" fill="#fff"/>
+        <rect id="矩形_5258" data-name="矩形 5258" width="20" height="4" rx="2" transform="translate(20 8) rotate(90)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
